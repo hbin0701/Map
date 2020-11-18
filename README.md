@@ -9,4 +9,4 @@ Design planning was done in [Figma](https://www.figma.com).
 
 ### To see back-end API.
 Map-api was developed using Django.
-- [Map_API](https://www.github.com/hbin0701/map_api)
+- [Map_API](https://www.github.com/hbin0701/map-api)
